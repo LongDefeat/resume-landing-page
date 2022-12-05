@@ -5,7 +5,7 @@ export const Data = {
       location: "Pasadena, California",
       email: "masonsams7@gmail.com",
       telephone: "1 (479) 970-1562",
-      image: "images/profile-pic.jpg",
+      image: "images/profile-pic.JPG",
     },
     aboutMe: {
       label: "Profile",
